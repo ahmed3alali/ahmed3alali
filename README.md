@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Alali</h1>
-<h3 align="center">A passionate frontend developer from Syria living in Istanbul.</h3>
+<h3 align="center">A passionate MERN stack developer from Syria living in Istanbul.</h3>
 
 - 🔭 I’m currently working on **React - Modern Pages Projects to develop my skills**
 
