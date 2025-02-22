@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Alali</h1>
-<h3 align="center">A passionate MERN stack developer from Syria living in Istanbul.</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
-- 🔭 I’m currently working on **React - Modern Pages Projects to develop my skills**
+- 🔭 I’m currently working on **React - Full Stack ( Node JS + Express JS ) Modern Pages Projects to develop my skills**
 
-- 🌱 I’m currently learning **Redux, Backend and building more Front-End related projects**
-
-- 💬 Ask me about **Javascript, Java, JavaSwing Library**
+- 🌱 Projects Open For:  **, Landing Pages, QR Code Menus and Buisness Cards**
 
 - 📫 How to reach me **ahmed3alali.development@gmail.com**
 
