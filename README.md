@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Alali</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-- 🔭 I’m currently working on **React - Full Stack ( Node JS + Express JS ) Modern Pages Projects to develop my skills**
+- 🔭 React (Next JS - Vite ) | Node JS Express JS | Spring Boot | Supabase**
 
-- 🌱 Projects Open For:  **, Landing Pages, QR Code Menus and Buisness Cards**
+- 🌱Worked on Ecommerce - QR Menus and Modern UI/ UX Landing Pages Projects **
 
 - 📫 How to reach me **ahmed3alali.development@gmail.com**
 
