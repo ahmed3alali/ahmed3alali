@@ -13,9 +13,9 @@ I'm a passionate **Full-Stack Developer** specializing in crafting modern, scala
 I love building from scratch — whether it's a full ERP system, a sleek e-commerce store, or a dynamic business dashboard.
 
 - 🔭 **Current Stack:**  
-  React • Next.js • Node.js • Express • MongoDB • Django  
-- ⚙️ **Also familiar with:** REST APIs, Cloudinary, TailwindCSS, JWT/Auth, Docker, CI/CD
-- 🌱 **Currently learning:** Advanced microservices and DevOps workflow
+  • Java • React • Next.js • Node.js • Express • MongoDB • Spring Boot • Django   
+- ⚙️ **Also experienced with:** REST APIs,GraphQL,  Cloudinary, TailwindCSS, JWT/Auth, Docker
+- 🌱 **Currently interested in learning:** Advanced microservices , DevOps workflow and Mobile Development
 - 💡 **What I enjoy most:** Turning ideas into interactive web experiences
 
 ---
@@ -40,7 +40,7 @@ I love building from scratch — whether it's a full ERP system, a sleek e-comme
 
 ### 📫 Contact
 📧 **info@a-alali.dev**  
-🌍 [a-alali.dev](https://a-alali.dev) *(optional — add if you have a personal portfolio)*
+🌍 [a-alali.dev](https://a-alali.dev) 
 
 ---
 
