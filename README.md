@@ -1,16 +1,52 @@
-<h1 align="center">Hi 👋, I'm Ahmed Alali</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h1 align="center">👋 Hi, I'm Ahmed Al-Ali</h1>
+<h3 align="center">Full-Stack Web Developer | Building scalable digital experiences</h3>
 
-- 🔭 React (Next JS - Vite ) | Node JS Express JS | Spring Boot | Supabase**
-
-- 🌱Worked on Ecommerce - QR Menus and Modern UI/ UX Landing Pages Projects **
-
-- 📫 How to reach me **ahmed3alali.development@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/ahmed3.alali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed3.alali" height="30" width="40" /></a>
+<p align="center">
+  💼 <strong>ERP Systems • E-Commerce • Landing Pages • Dashboards • e-Business Cards</strong><br>
+  🌍 Turning business needs into fast, secure, and maintainable web solutions
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> </a> </p>
+---
+
+### 🧠 About Me
+I'm a passionate **Full-Stack Developer** specializing in crafting modern, scalable, and data-driven web applications.  
+I love building from scratch — whether it's a full ERP system, a sleek e-commerce store, or a dynamic business dashboard.
+
+- 🔭 **Current Stack:**  
+  React • Next.js • Node.js • Express • MongoDB • Django  
+- ⚙️ **Also familiar with:** REST APIs, Cloudinary, TailwindCSS, JWT/Auth, Docker, CI/CD
+- 🌱 **Currently learning:** Advanced microservices and DevOps workflow
+- 💡 **What I enjoy most:** Turning ideas into interactive web experiences
+
+---
+
+### 🚀 What I Build
+| Category | Examples |
+|-----------|-----------|
+| 🧩 **ERP Systems** | Inventory, billing, and workflow automation |
+| 🛍️ **E-Commerce** | Full-featured stores with dynamic product management |
+| 💼 **Dashboards** | Admin panels, analytics views, and control systems |
+| 🪪 **Digital Business Cards** | Interactive and shareable personal/business profiles |
+| 🌐 **Landing Pages** | Modern, responsive, and SEO-ready marketing sites |
+
+---
+
+### 🧰 Tech Toolbox
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,django,html,css,js,ts,tailwind,git,github,vscode" />
+</p>
+
+---
+
+### 📫 Contact
+📧 **info@a-alali.dev**  
+🌍 [a-alali.dev](https://a-alali.dev) *(optional — add if you have a personal portfolio)*
+
+---
+
+### ⚡ Fun Fact
+> “Good design is invisible — but great engineering makes it possible.”
+
+---
+
+⭐️ *Thanks for visiting! Feel free to check out my repositories and connect — always open to collaboration and new ideas.*
